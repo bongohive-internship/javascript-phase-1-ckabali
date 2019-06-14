@@ -5,7 +5,7 @@
     console.log('You are either ' + age + ' or ' + (age - 1));
 }
 
-T
+
 
 
 
