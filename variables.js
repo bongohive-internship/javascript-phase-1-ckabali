@@ -1,13 +1,11 @@
-// you solution should be here
-Var birthYear = 1995;
-Var futureDate = 2019;
-Var possibleAge = futureDate - birthYear;
+// your solution should be here
 
-var currentAge = 24;
-Var maximumAge = 85;
-Number estimatedAmountPerDay = 20;
-TotalEstimatedToEat = estimatedAmountPerDay× (maximumAge - currentAge);
-system.out.println(String:"You will need NN to last you until the ripe old age of X".);
+  function calculateAge(birthYear, currentYear) {
+    var age = currentYear - birthYear;
+    console.log('You are either ' + age + ' or ' + (age - 1));
+}
+
+T
 
 
 
